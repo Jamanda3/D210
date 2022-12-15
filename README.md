@@ -1,4 +1,7 @@
 # D210-Representing_and_Reporting
+Link to Tableau presentation: https://public.tableau.com/app/profile/julia.amanda.terzin/viz/D210_Task_1_Presentation/Story1#1    
+Link to Tableau dashboard: https://public.tableau.com/app/profile/julia.amanda.terzin/viz/D210_Task1_Dashboard/OverviewDashboard
+## Task_1
 
 Part 1: Interactive Data Dashboard    
 A. Provide a copy of your interactive Tableau dashboard to support executive decision-making. Your dashboard must be accessible to users with colorblindness, and must include the components in each of the following bullet points:
